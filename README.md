@@ -1,4 +1,4 @@
-# dva-core
+# dva-core-intergration
 
 [![NPM version](https://img.shields.io/npm/v/dva-core.svg?style=flat)](https://npmjs.org/package/dva-core)
 [![Build Status](https://img.shields.io/travis/dvajs/dva-core.svg?style=flat)](https://travis-ci.org/dvajs/dva-core)
@@ -11,4 +11,3 @@ The core lightweight library for dva, based on redux and redux-saga.
 ## LICENSE
 
 MIT
-
