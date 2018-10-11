@@ -1,6 +1,6 @@
 import invariant from 'invariant';
-import { isArray, isFunction, isPlainObject } from './utils';
-
+import { isArray, isFunction } from './utils';
+export isPlainObject from 'is-plain-object';
 export default function checkModel(model, existModels) {
   const {
     namespace,

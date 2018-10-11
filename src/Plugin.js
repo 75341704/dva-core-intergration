@@ -1,6 +1,6 @@
 import invariant from 'invariant';
-import { isPlainObject } from './utils';
-
+// import { isPlainObject } from './utils';
+export isPlainObject from 'is-plain-object';
 const hooks = [
   'onError',
   'onStateChange',
